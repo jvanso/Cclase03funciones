@@ -26,6 +26,7 @@ Programación en C ,Clase 03  funciones
 
   (git push)
 
+git adddddd
 
 git add y nombre del archivo.tipo
 
